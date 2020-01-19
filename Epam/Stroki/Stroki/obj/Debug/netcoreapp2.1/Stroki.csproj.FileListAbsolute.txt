@@ -1,0 +1,10 @@
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\bin\Debug\netcoreapp2.1\Stroki.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\bin\Debug\netcoreapp2.1\Stroki.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\bin\Debug\netcoreapp2.1\Stroki.runtimeconfig.dev.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\bin\Debug\netcoreapp2.1\Stroki.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\bin\Debug\netcoreapp2.1\Stroki.pdb
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\obj\Debug\netcoreapp2.1\Stroki.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\obj\Debug\netcoreapp2.1\Stroki.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\obj\Debug\netcoreapp2.1\Stroki.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\obj\Debug\netcoreapp2.1\Stroki.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Stroki\Stroki\obj\Debug\netcoreapp2.1\Stroki.pdb

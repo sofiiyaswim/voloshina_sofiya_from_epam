@@ -1,0 +1,10 @@
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\bin\Debug\netcoreapp2.1\Skobki.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\bin\Debug\netcoreapp2.1\Skobki.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\bin\Debug\netcoreapp2.1\Skobki.runtimeconfig.dev.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\bin\Debug\netcoreapp2.1\Skobki.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\bin\Debug\netcoreapp2.1\Skobki.pdb
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\obj\Debug\netcoreapp2.1\Skobki.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\obj\Debug\netcoreapp2.1\Skobki.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\obj\Debug\netcoreapp2.1\Skobki.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\obj\Debug\netcoreapp2.1\Skobki.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Skobki\Skobki\obj\Debug\netcoreapp2.1\Skobki.pdb

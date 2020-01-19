@@ -1,0 +1,10 @@
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\bin\Debug\netcoreapp2.1\Factorial.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.dev.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\bin\Debug\netcoreapp2.1\Factorial.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\bin\Debug\netcoreapp2.1\Factorial.pdb
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\obj\Debug\netcoreapp2.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\obj\Debug\netcoreapp2.1\Factorial.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Factorial\Factorial\obj\Debug\netcoreapp2.1\Factorial.pdb

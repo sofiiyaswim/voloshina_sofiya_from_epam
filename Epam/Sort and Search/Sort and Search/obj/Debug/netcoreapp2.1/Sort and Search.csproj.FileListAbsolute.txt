@@ -1,0 +1,11 @@
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\bin\Debug\netcoreapp2.1\Sort and Search.deps.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\bin\Debug\netcoreapp2.1\Sort and Search.runtimeconfig.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\bin\Debug\netcoreapp2.1\Sort and Search.runtimeconfig.dev.json
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\bin\Debug\netcoreapp2.1\Sort and Search.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\bin\Debug\netcoreapp2.1\Sort and Search.pdb
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.csproj.CoreCompileInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.AssemblyInfoInputs.cache
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.AssemblyInfo.cs
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.dll
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.pdb
+C:\Users\volos\OneDrive\Рабочий стол\Epam\Sort and Search\Sort and Search\obj\Debug\netcoreapp2.1\Sort and Search.csprojAssemblyReference.cache
